@@ -1,0 +1,22 @@
+{
+  "name": "xoriantassignment1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@wdio/cli": "^8.39.1",
+    "@wdio/cucumber-framework": "^8.39.0",
+    "appium": "^2.11.1",
+    "appium-doctor": "^1.16.2",
+    "chai": "^5.1.1",
+    "cucumber": "^6.0.7",
+    "wdio-appium-service": "^0.2.3",
+    "wdio-spec-reporter": "^0.1.5"
+  }
+}
