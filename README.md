@@ -27,9 +27,6 @@ Now the project setup is complete.
 
 **Execute below command on your VSCode terminal to run the test on android emulator**
   -   npx wdio wdio.conf.js --env app.android.emulator
-  -   You will be able to view the test results in the VSCode terminal as shown below -
-    <img width="912" alt="image" src="https://github.com/snelearnsgit21/EriBankProjectAssesmentXO/assets/83170958/5aa1051d-3336-4ac9-b486-fcc33a92d25e">
-  - You will be able to view tests running on an android emulator like [this](https://drive.google.com/drive/u/2/folders/1SGmtd6FzGzQBsWXrZS4OCdzLNFSBRP-z)
 
 
 https://github.com/snelearnsgit21/EriBankProjectAssesmentXO/assets/83170958/1dbd6d60-7f0c-4e2b-b4ff-08f5e671be1c
